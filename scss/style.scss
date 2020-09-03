@@ -83,3 +83,26 @@ body {
 .about-img {
   margin-top: -50px;
 }
+
+// FAQ SECTION ACCORDION
+#faq {
+  .card {
+    border: #444;
+  }
+
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .card-body,
+  .card-header {
+    background: #333;
+  }
+}
+
+// FOOTER
+#main-footer {
+  background: #000;
+  color: #fff;
+}
